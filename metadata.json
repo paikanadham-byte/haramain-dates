@@ -1,0 +1,6 @@
+{
+  "name": "تمور الحرمين | Tmoor Alharmain",
+  "description": "متجر إلكتروني متكامل لتمور الحرمين مع لوحة تحكم وإدارة المنتجات والمخزون والطلبات وبوابات الدفع والشحن لجميع مناطق المملكة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

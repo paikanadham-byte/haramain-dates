@@ -1,0 +1,1 @@
+export const CITY_NAMES_EN = ['Riyadh','Jeddah','Makkah','Madinah','Dammam','Khobar','Dhahran','Buraidah (Qassim)','Unaizah','Al Ahsa (Hofuf)','Taif','Abha','Khamis Mushait','Tabuk','Hail','Jazan','Najran','Yanbu','Jubail','Hafr Al Batin','Arar','Sakaka'];
